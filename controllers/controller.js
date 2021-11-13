@@ -1,4 +1,3 @@
-// const games_model = require('../models/games_model');
 const resp = require('../baseball.json')
 const resp2 = require('../baseball2.json')
 const resp3 = require('../baseball3.json')
