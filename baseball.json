@@ -64,10 +64,7 @@
       ],
       "top_runs": 0,
       "top_hits": 0,
-      "top_err": 0,
-      "bot_runs": 0,
-      "bot_hits": 0,
-      "bot_err": 0
+      "top_err": 0
     }
   ]
 }
