@@ -13,6 +13,10 @@ class Controller {
     res.status(200).send(respArr[counter]);
 		counter = counter <= 3 ? counter + 1 : 0
   }
+  async getGameStart(req, res) {
+    res.status(200).send(respArr[req.params.count]);
+		counter = +req.params.count + 1
+  }
 }
 
 module.exports = new Controller();
