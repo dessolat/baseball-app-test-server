@@ -1,0 +1,242 @@
+{
+  "preview": {
+    "guests": "RusStar",
+    "owners": "Wolves (SSHOR No. 42)",
+    "score": "2 1",
+    "guests_score": 0,
+    "owners_score": 0,
+    "league_name": "RUSSIAN CHAMPIONSHIP",
+    "game_date": "2021-08-29",
+    "league_year": "2021",
+    "stadium_name": "Russtar",
+    "owners_lineup_pos": ["SS", "DH", "CF", "2B", "C", "1B", "3B", "RF", "LF", "P"],
+    "owners_lineup_name": [
+      "David Castillo Velazquez",
+      "Mishimo Hayato",
+      "Geidys Soler Hinojosa",
+      "Luis Yunior Valiente",
+      "Yan Alekhandro Perez Nunez",
+      "Aalexander Vasil'ev",
+      "Anton Trusov",
+      "Konstantin Porkhun",
+      "Dmitriy Tonkoshkurov",
+      "Alexey Lukashevich"
+    ],
+    "guests_lineup_pos": ["CF", "SS", "DH", "LF", "RF", "C", "1B", "3B", "2B", "P"],
+    "guests_lineup_name": [
+      "Maxim Monakhov",
+      "Artem Logvinov",
+      "Nikita Shchekochikhin",
+      "Vyacheslav Vasilev",
+      "Ivan Bobkin",
+      "Alexander Sapronov",
+      "Denis Uvarov",
+      "Nikita Kotlyar",
+      "Denis Kim",
+      "Andrey Lobanov"
+    ]
+  },
+  "innings": [
+    {
+      "number": 1,
+      "top/guests": [
+        {
+          "type": "at bat",
+          "who": "David Castillo Velazquez",
+          "who_id": 162,
+          "hit_order": 1,
+          "moments": [
+            {
+              "inner": { "number": 0, "id": 11160, "original": 22340, "final": 22341 },
+              "table": { "balls": 0, "strikes": 0, "outs": 0, "r1": 0, "r2": 0, "r3": 0 },
+              "events": [{ "type": "pitch", "description": "Castillo Velazquez D. ball (1-0)" }],
+              "icons": { "batter_moment": 1, "circ_text_pitch": "B", "circ_color_pitch": "green" },
+              "pitcher": {
+                "pitches_name": "Andrey Lobanov",
+                "pitches_count": 1,
+                "balls_count": 1,
+                "strikes_count": 0,
+                "moment_type": "pitch to batter"
+              }
+            },
+            {
+              "inner": { "number": 1, "id": 11161, "original": 22342, "final": 22343 },
+              "table": { "balls": 1, "strikes": 0, "outs": 0, "r1": 0, "r2": 0, "r3": 0 },
+              "events": [{ "type": "out", "description": "Castillo Velazquez D. flied out to first base" }],
+              "filter": ["Flyout"],
+              "icons": {
+                "batter_moment": 2,
+                "rect_text": "Flyout",
+                "rect_color": "red",
+                "circ_text_pitch": "P",
+                "circ_color_pitch": "blue"
+              },
+              "pitcher": {
+                "pitches_name": "Andrey Lobanov",
+                "pitches_count": 2,
+                "balls_count": 1,
+                "strikes_count": 1,
+                "moment_type": "pitch to batter"
+              }
+            }
+          ]
+        },
+        {
+          "type": "at bat",
+          "who": "Mishimo Hayato",
+          "who_id": 394,
+          "hit_order": 2,
+          "moments": [
+            {
+              "inner": { "number": 2, "id": 11162, "original": 22344, "final": 22345 },
+              "table": { "balls": 0, "strikes": 0, "outs": 1, "r1": 0, "r2": 0, "r3": 0 },
+              "events": [{ "type": "pitch", "description": "Hayato M. ball (1-0)" }],
+              "icons": { "batter_moment": 1, "circ_text_pitch": "B", "circ_color_pitch": "green" },
+              "pitcher": {
+                "pitches_name": "Andrey Lobanov",
+                "pitches_count": 3,
+                "balls_count": 2,
+                "strikes_count": 1,
+                "moment_type": "pitch to batter"
+              }
+            },
+            {
+              "inner": { "number": 3, "id": 11163, "original": 22346, "final": 22347 },
+              "table": { "balls": 1, "strikes": 0, "outs": 1, "r1": 0, "r2": 0, "r3": 0 },
+              "events": [{ "type": "pitch", "description": "Hayato M. strike looking (1-1)" }],
+              "icons": { "batter_moment": 2, "circ_text_pitch": "K", "circ_color_pitch": "red" },
+              "pitcher": {
+                "pitches_name": "Andrey Lobanov",
+                "pitches_count": 4,
+                "balls_count": 2,
+                "strikes_count": 2,
+                "moment_type": "pitch to batter"
+              }
+            },
+            {
+              "inner": { "number": 4, "id": 11164, "original": 22348, "final": 22349 },
+              "table": { "balls": 1, "strikes": 1, "outs": 1, "r1": 0, "r2": 0, "r3": 0 },
+              "events": [{ "type": "pitch", "description": "Hayato M. ball (2-1)" }],
+              "icons": { "batter_moment": 3, "circ_text_pitch": "B", "circ_color_pitch": "green" },
+              "pitcher": {
+                "pitches_name": "Andrey Lobanov",
+                "pitches_count": 5,
+                "balls_count": 3,
+                "strikes_count": 2,
+                "moment_type": "pitch to batter"
+              }
+            },
+            {
+              "inner": { "number": 5, "id": 11165, "original": 22350, "final": 22351 },
+              "table": { "balls": 2, "strikes": 1, "outs": 1, "r1": 0, "r2": 0, "r3": 0 },
+              "events": [{ "type": "pitch", "description": "Hayato M. ball (3-1)" }],
+              "icons": { "batter_moment": 4, "circ_text_pitch": "B", "circ_color_pitch": "green" },
+              "pitcher": {
+                "pitches_name": "Andrey Lobanov",
+                "pitches_count": 6,
+                "balls_count": 4,
+                "strikes_count": 2,
+                "moment_type": "pitch to batter"
+              }
+            },
+            {
+              "inner": { "number": 6, "id": 11166, "original": 22352, "final": 22353 },
+              "table": { "balls": 3, "strikes": 1, "outs": 1, "r1": 0, "r2": 0, "r3": 0 },
+              "events": [
+                {
+                  "type": "out",
+                  "description": "Hayato M. grounded out to third base, grounded out to third base"
+                }
+              ],
+              "filter": ["Groundout"],
+              "icons": {
+                "batter_moment": 5,
+                "rect_text": "Groundout",
+                "rect_color": "red",
+                "circ_text_pitch": "P",
+                "circ_color_pitch": "blue"
+              },
+              "pitcher": {
+                "pitches_name": "Andrey Lobanov",
+                "pitches_count": 7,
+                "balls_count": 4,
+                "strikes_count": 3,
+                "moment_type": "pitch to batter"
+              }
+            }
+          ]
+        },
+        {
+          "type": "at bat",
+          "who": "Geidys Soler Hinojosa",
+          "who_id": 170,
+          "hit_order": 3,
+          "moments": [
+            {
+              "inner": { "number": 7, "id": 11168, "original": 22356, "final": 22357 },
+              "table": { "balls": 0, "strikes": 0, "outs": 2, "r1": 0, "r2": 0, "r3": 0 },
+              "events": [{ "type": "out", "description": "Soler Hinojosa G. flied out to rigth fielder" }],
+              "filter": ["Flyout"],
+              "icons": {
+                "batter_moment": 1,
+                "rect_text": "Flyout",
+                "rect_color": "red",
+                "circ_text_pitch": "P",
+                "circ_color_pitch": "blue"
+              },
+              "pitcher": {
+                "pitches_name": "Andrey Lobanov",
+                "pitches_count": 8,
+                "balls_count": 4,
+                "strikes_count": 4,
+                "moment_type": "pitch to batter"
+              }
+            }
+          ]
+        }
+      ],
+      "top_runs": 0,
+      "top_hits": 0,
+      "top_err": 0,
+      "bottom/owners": [
+        {
+          "type": "at bat",
+          "who": "Maxim Monakhov",
+          "who_id": 139,
+          "hit_order": 1,
+          "moments": [
+            {
+              "inner": { "number": 0, "id": 11169, "original": 22358, "final": 22359 },
+              "table": { "balls": 0, "strikes": 0, "outs": 0, "r1": 0, "r2": 0, "r3": 0 },
+              "events": [{ "type": "pitch", "description": "Monakhov M. ball (1-0)" }],
+              "icons": { "batter_moment": 1, "circ_text_pitch": "B", "circ_color_pitch": "green" },
+              "pitcher": {
+                "pitches_name": "Alexey Lukashevich",
+                "pitches_count": 1,
+                "balls_count": 1,
+                "strikes_count": 0,
+                "moment_type": "pitch to batter"
+              }
+            },
+            {
+              "inner": { "number": 1, "id": 11170, "original": 22360, "final": 22361 },
+              "table": { "balls": 1, "strikes": 0, "outs": 0, "r1": 0, "r2": 0, "r3": 0 },
+              "events": [{ "type": "pitch", "description": "Monakhov M. ball (2-0)" }],
+              "icons": { "batter_moment": 2, "circ_text_pitch": "B", "circ_color_pitch": "green" },
+              "pitcher": {
+                "pitches_name": "Alexey Lukashevich",
+                "pitches_count": 2,
+                "balls_count": 2,
+                "strikes_count": 0,
+                "moment_type": "pitch to batter"
+              }
+            }
+          ]
+        }
+      ],
+      "bot_runs": 0,
+      "bot_hits": 0,
+      "bot_err": 0
+    }
+  ]
+}
