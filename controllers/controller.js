@@ -14,6 +14,8 @@ const resp13 = require('../JSON/baseball13.json');
 const resp14 = require('../JSON/baseball14.json');
 const resp15 = require('../JSON/baseball15.json');
 const resp16 = require('../JSON/baseball16.json');
+const resp17 = require('../JSON/baseball17.json');
+const resp18 = require('../JSON/baseball18.json');
 
 let counter = 0;
 
@@ -33,13 +35,15 @@ const respArr = [
   resp13,
   resp14,
   resp15,
-  resp16
+  resp16,
+  resp17,
+  resp18
 ];
 
 class Controller {
   async getGame(req, res) {
     res.status(200).send(respArr[counter]);
-    counter = counter <= 14 ? counter + 1 : 0;
+    counter = counter <= respArr.length - 2 ? counter + 1 : 0;
   }
   async getGameStart(req, res) {
     res.status(200).send(respArr[req.params.count]);
