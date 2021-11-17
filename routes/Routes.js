@@ -1,9 +1,9 @@
-const { Router } = require('express');
+// const { Router } = require('express');
 
-const Controller = require('../controllers/controller')
-const router = new Router();
+// const Controller = require('../controllers/controller')
+// const router = new Router();
 
-router.get('/:count', Controller.getGameStart);
-router.get('/', Controller.getGame);
+// router.get('/:count', Controller.getGameStart);
+// router.get('/', Controller.getGame);
 
-module.exports = router;
+// module.exports = router;
