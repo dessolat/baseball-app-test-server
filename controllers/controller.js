@@ -1,7 +1,7 @@
 const resp = require('../JSON/baseball.json');
-// const resp2 = require('../JSON/baseball2.json');
-// const resp3 = require('../JSON/baseball3.json');
-// const resp4 = require('../JSON/baseball4.json');
+const resp2 = require('../JSON/baseball2.json');
+const resp3 = require('../JSON/baseball3.json');
+const resp4 = require('../JSON/baseball4.json');
 // const resp5 = require('../JSON/baseball5.json');
 // const resp6 = require('../JSON/baseball6.json');
 // const resp7 = require('../JSON/baseball7.json');
@@ -21,9 +21,9 @@ let counter = 0;
 
 const respArr = [
   resp,
-  // resp2,
-  // resp3,
-  // resp4,
+  resp2,
+  resp3,
+  resp4,
   // resp5,
   // resp6,
   // resp7,

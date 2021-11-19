@@ -3,8 +3,8 @@
     "guests": "RusStar",
     "owners": "Wolves (SSHOR No. 42)",
     "score": "2 1",
-    "guests_score": 0,
-    "owners_score": 0,
+    "guests_score": 2,
+    "owners_score": 1,
     "league_name": "RUSSIAN CHAMPIONSHIP",
     "game_date": "2021-08-29",
     "league_year": "2021",
@@ -47,10 +47,31 @@
           "hit_order": 1,
           "moments": [
             {
-              "inner": { "number": 0, "id": 11160, "original": 22340, "final": 22341 },
-              "table": { "balls": 0, "strikes": 0, "outs": 0, "r1": 0, "r2": 0, "r3": 0 },
-              "events": [{ "type": "pitch", "description": "Castillo Velazquez D. ball (1-0)" }],
-              "icons": { "batter_moment": 1, "circ_text_pitch": "B", "circ_color_pitch": "green" },
+              "inner": {
+                "number": 0,
+                "id": 11160,
+                "original": 22340,
+                "final": 22341
+              },
+              "table": {
+                "balls": 0,
+                "strikes": 0,
+                "outs": 0,
+                "r1": 0,
+                "r2": 0,
+                "r3": 0
+              },
+              "events": [
+                {
+                  "type": "pitch",
+                  "description": "Castillo Velazquez D. ball (1-0)"
+                }
+              ],
+              "icons": {
+                "batter_moment": 1,
+                "circ_text_pitch": "B",
+                "circ_color_pitch": "green"
+              },
               "pitcher": {
                 "pitches_name": "Andrey Lobanov",
                 "pitches_count": 1,
@@ -60,9 +81,26 @@
               }
             },
             {
-              "inner": { "number": 1, "id": 11161, "original": 22342, "final": 22343 },
-              "table": { "balls": 1, "strikes": 0, "outs": 0, "r1": 0, "r2": 0, "r3": 0 },
-              "events": [{ "type": "out", "description": "Castillo Velazquez D. flied out to first base" }],
+              "inner": {
+                "number": 1,
+                "id": 11161,
+                "original": 22342,
+                "final": 22343
+              },
+              "table": {
+                "balls": 1,
+                "strikes": 0,
+                "outs": 0,
+                "r1": 0,
+                "r2": 0,
+                "r3": 0
+              },
+              "events": [
+                {
+                  "type": "out",
+                  "description": "Castillo Velazquez D. flied out to first base"
+                }
+              ],
               "filter": ["Flyout"],
               "icons": {
                 "batter_moment": 2,
@@ -88,10 +126,31 @@
           "hit_order": 2,
           "moments": [
             {
-              "inner": { "number": 2, "id": 11162, "original": 22344, "final": 22345 },
-              "table": { "balls": 0, "strikes": 0, "outs": 1, "r1": 0, "r2": 0, "r3": 0 },
-              "events": [{ "type": "pitch", "description": "Hayato M. ball (1-0)" }],
-              "icons": { "batter_moment": 1, "circ_text_pitch": "B", "circ_color_pitch": "green" },
+              "inner": {
+                "number": 2,
+                "id": 11162,
+                "original": 22344,
+                "final": 22345
+              },
+              "table": {
+                "balls": 0,
+                "strikes": 0,
+                "outs": 1,
+                "r1": 0,
+                "r2": 0,
+                "r3": 0
+              },
+              "events": [
+                {
+                  "type": "pitch",
+                  "description": "Hayato M. ball (1-0)"
+                }
+              ],
+              "icons": {
+                "batter_moment": 1,
+                "circ_text_pitch": "B",
+                "circ_color_pitch": "green"
+              },
               "pitcher": {
                 "pitches_name": "Andrey Lobanov",
                 "pitches_count": 3,
